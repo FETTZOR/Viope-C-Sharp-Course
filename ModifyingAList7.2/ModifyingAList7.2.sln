@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModifyingAList7.2", "ModifyingAList7.2\ModifyingAList7.2.csproj", "{95DE9658-3E32-464F-904A-FF47F45D2E90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95DE9658-3E32-464F-904A-FF47F45D2E90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95DE9658-3E32-464F-904A-FF47F45D2E90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95DE9658-3E32-464F-904A-FF47F45D2E90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95DE9658-3E32-464F-904A-FF47F45D2E90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SummingInputs6.2/1.0.0": {
+        "runtime": {
+          "SummingInputs6.2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SummingInputs6.2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

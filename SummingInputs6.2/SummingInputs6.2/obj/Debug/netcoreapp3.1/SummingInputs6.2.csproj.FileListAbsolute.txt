@@ -1,0 +1,13 @@
+C:\Users\emili\RiderProjects\SummingInputs6.2\SummingInputs6.2\bin\Debug\netcoreapp3.1\SummingInputs6.2.exe
+C:\Users\emili\RiderProjects\SummingInputs6.2\SummingInputs6.2\bin\Debug\netcoreapp3.1\SummingInputs6.2.deps.json
+C:\Users\emili\RiderProjects\SummingInputs6.2\SummingInputs6.2\bin\Debug\netcoreapp3.1\SummingInputs6.2.runtimeconfig.json
+C:\Users\emili\RiderProjects\SummingInputs6.2\SummingInputs6.2\bin\Debug\netcoreapp3.1\SummingInputs6.2.runtimeconfig.dev.json
+C:\Users\emili\RiderProjects\SummingInputs6.2\SummingInputs6.2\bin\Debug\netcoreapp3.1\SummingInputs6.2.dll
+C:\Users\emili\RiderProjects\SummingInputs6.2\SummingInputs6.2\bin\Debug\netcoreapp3.1\SummingInputs6.2.pdb
+C:\Users\emili\RiderProjects\SummingInputs6.2\SummingInputs6.2\obj\Debug\netcoreapp3.1\SummingInputs6.2.csprojAssemblyReference.cache
+C:\Users\emili\RiderProjects\SummingInputs6.2\SummingInputs6.2\obj\Debug\netcoreapp3.1\SummingInputs6.2.AssemblyInfoInputs.cache
+C:\Users\emili\RiderProjects\SummingInputs6.2\SummingInputs6.2\obj\Debug\netcoreapp3.1\SummingInputs6.2.AssemblyInfo.cs
+C:\Users\emili\RiderProjects\SummingInputs6.2\SummingInputs6.2\obj\Debug\netcoreapp3.1\SummingInputs6.2.csproj.CoreCompileInputs.cache
+C:\Users\emili\RiderProjects\SummingInputs6.2\SummingInputs6.2\obj\Debug\netcoreapp3.1\SummingInputs6.2.dll
+C:\Users\emili\RiderProjects\SummingInputs6.2\SummingInputs6.2\obj\Debug\netcoreapp3.1\SummingInputs6.2.pdb
+C:\Users\emili\RiderProjects\SummingInputs6.2\SummingInputs6.2\obj\Debug\netcoreapp3.1\SummingInputs6.2.genruntimeconfig.cache

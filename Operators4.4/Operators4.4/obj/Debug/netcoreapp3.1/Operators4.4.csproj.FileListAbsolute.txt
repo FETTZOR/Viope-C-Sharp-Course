@@ -1,0 +1,13 @@
+C:\Users\emili\RiderProjects\Operators4.4\Operators4.4\bin\Debug\netcoreapp3.1\Operators4.4.exe
+C:\Users\emili\RiderProjects\Operators4.4\Operators4.4\bin\Debug\netcoreapp3.1\Operators4.4.deps.json
+C:\Users\emili\RiderProjects\Operators4.4\Operators4.4\bin\Debug\netcoreapp3.1\Operators4.4.runtimeconfig.json
+C:\Users\emili\RiderProjects\Operators4.4\Operators4.4\bin\Debug\netcoreapp3.1\Operators4.4.runtimeconfig.dev.json
+C:\Users\emili\RiderProjects\Operators4.4\Operators4.4\bin\Debug\netcoreapp3.1\Operators4.4.dll
+C:\Users\emili\RiderProjects\Operators4.4\Operators4.4\bin\Debug\netcoreapp3.1\Operators4.4.pdb
+C:\Users\emili\RiderProjects\Operators4.4\Operators4.4\obj\Debug\netcoreapp3.1\Operators4.4.csprojAssemblyReference.cache
+C:\Users\emili\RiderProjects\Operators4.4\Operators4.4\obj\Debug\netcoreapp3.1\Operators4.4.AssemblyInfoInputs.cache
+C:\Users\emili\RiderProjects\Operators4.4\Operators4.4\obj\Debug\netcoreapp3.1\Operators4.4.AssemblyInfo.cs
+C:\Users\emili\RiderProjects\Operators4.4\Operators4.4\obj\Debug\netcoreapp3.1\Operators4.4.csproj.CoreCompileInputs.cache
+C:\Users\emili\RiderProjects\Operators4.4\Operators4.4\obj\Debug\netcoreapp3.1\Operators4.4.dll
+C:\Users\emili\RiderProjects\Operators4.4\Operators4.4\obj\Debug\netcoreapp3.1\Operators4.4.pdb
+C:\Users\emili\RiderProjects\Operators4.4\Operators4.4\obj\Debug\netcoreapp3.1\Operators4.4.genruntimeconfig.cache

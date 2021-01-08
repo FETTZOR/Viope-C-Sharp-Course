@@ -1,0 +1,116 @@
+﻿using System;
+
+namespace CockroachFootNuke
+{
+    class CockroachFootNukeGame
+    {
+        static void Main()
+        {
+            while (true)
+            {
+                Console.WriteLine("Cockroach-Foot-Nuke. Choose 1-4. \n 1) Cockroach 2) Foot 3) Nuke 4) Exit");
+                var userChoice = Convert.ToInt32(Console.ReadLine());
+                Random random = new Random();
+                int computer = random.Next(1, 4);
+                    
+                if (computer == 1)
+                {
+                    if (userChoice == 1)
+                    {
+                        Console.WriteLine(userChoice + " Cockroach! ");
+                        Console.WriteLine("Computer had Cockroach. A Tie!\n");
+                        // user cockroach, computer cockroach, TIE!
+
+                    }
+                    else if (userChoice == 2)
+                    {
+                        Console.WriteLine(userChoice + " Foot! ");
+                        Console.WriteLine("Computer had Cockroach. You win!\n");
+                        // user foot, computer cockroach, USER WIN, COMP WIN
+                    }
+                    else if (userChoice == 3)
+                    {
+                        Console.WriteLine(userChoice + " Nuke! ");
+                        Console.WriteLine("Computer had Cockroach. You lose!\n");    
+                        // user nuke, computer cockroach, USER LOSE. COMP WIN
+                    }
+                    else
+                    {
+                        break;
+                    }
+
+                }
+
+                else if (computer == 2)
+                {
+                    if (userChoice == 1)
+                    {
+                        Console.WriteLine(userChoice + " Cockroach! ");
+                        Console.WriteLine("Computer had Foot. You lose!\n");
+                        // user cockroach, computer foot, USER LOSE, COMP WIN
+                    }
+                    else if (userChoice == 2)
+                    {
+                        Console.WriteLine(userChoice + " Foot! ");
+                        Console.WriteLine("Computer had Foot. A Tie!\n");
+                        // user foot, computer foot, TIE
+                    }
+                    else if (userChoice == 3)
+                    {
+                        Console.WriteLine(userChoice + " Nuke! ");
+                        Console.WriteLine("Computer had Foot. You win!\n"); 
+                        // user nuke, computer foot, USER WIN. COMP LOSE
+                    }
+                    else
+                    {
+                        break;
+                    }
+                }
+                else if (computer == 3)
+                    // Nuke
+                {
+                    if (userChoice == 1)
+                    {
+                        Console.WriteLine(userChoice + " Cockroach! ");
+                        Console.WriteLine("Computer had Nuke. You win!\n");
+                        // user cockroach, computer nuke, USER WIN COMP LOSE
+
+                    }
+                    else if (userChoice == 2)
+                    {
+                        Console.WriteLine(userChoice + " Foot! ");
+                        Console.WriteLine("Computer had Nuke. You lose!\n");
+                        // user foot, computer nuke, USER LOSE, COMP WIN
+                    }
+                    else if (userChoice == 3)
+                    {
+                        Console.WriteLine(userChoice + " Nuke! ");
+                        Console.WriteLine("Computer had Nuke. A Tie!\n");  
+                        // user nuke, computer nuke, TIE!
+                    }
+                    else
+                    {
+                        break;
+                    }
+
+                }
+            }
+        }
+    }
+}
+
+
+// Hint: random number generation
+// Random random = new Random();
+// computer = random.Next(1, 4);
+//
+// Example output:
+//
+// Cockroach-Foot-Nuke. Choose 1-4.
+// 1) Cockroach 2) Foot 3) Nuke 4) Exit
+// 3 Nuke!
+// Computer had Nuke. A Tie!
+//
+// Cockroach-Foot-Nuke. Choose 1-4.
+// 1) Cockroach 2) Foot 3) Nuke 4) Exit
+// 4

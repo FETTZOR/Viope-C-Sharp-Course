@@ -1,0 +1,13 @@
+C:\Users\emili\RiderProjects\CockroachFootNuke\CockroachFootNuke\bin\Debug\netcoreapp3.1\CockroachFootNuke.exe
+C:\Users\emili\RiderProjects\CockroachFootNuke\CockroachFootNuke\bin\Debug\netcoreapp3.1\CockroachFootNuke.deps.json
+C:\Users\emili\RiderProjects\CockroachFootNuke\CockroachFootNuke\bin\Debug\netcoreapp3.1\CockroachFootNuke.runtimeconfig.json
+C:\Users\emili\RiderProjects\CockroachFootNuke\CockroachFootNuke\bin\Debug\netcoreapp3.1\CockroachFootNuke.runtimeconfig.dev.json
+C:\Users\emili\RiderProjects\CockroachFootNuke\CockroachFootNuke\bin\Debug\netcoreapp3.1\CockroachFootNuke.dll
+C:\Users\emili\RiderProjects\CockroachFootNuke\CockroachFootNuke\bin\Debug\netcoreapp3.1\CockroachFootNuke.pdb
+C:\Users\emili\RiderProjects\CockroachFootNuke\CockroachFootNuke\obj\Debug\netcoreapp3.1\CockroachFootNuke.csprojAssemblyReference.cache
+C:\Users\emili\RiderProjects\CockroachFootNuke\CockroachFootNuke\obj\Debug\netcoreapp3.1\CockroachFootNuke.AssemblyInfoInputs.cache
+C:\Users\emili\RiderProjects\CockroachFootNuke\CockroachFootNuke\obj\Debug\netcoreapp3.1\CockroachFootNuke.AssemblyInfo.cs
+C:\Users\emili\RiderProjects\CockroachFootNuke\CockroachFootNuke\obj\Debug\netcoreapp3.1\CockroachFootNuke.csproj.CoreCompileInputs.cache
+C:\Users\emili\RiderProjects\CockroachFootNuke\CockroachFootNuke\obj\Debug\netcoreapp3.1\CockroachFootNuke.dll
+C:\Users\emili\RiderProjects\CockroachFootNuke\CockroachFootNuke\obj\Debug\netcoreapp3.1\CockroachFootNuke.pdb
+C:\Users\emili\RiderProjects\CockroachFootNuke\CockroachFootNuke\obj\Debug\netcoreapp3.1\CockroachFootNuke.genruntimeconfig.cache

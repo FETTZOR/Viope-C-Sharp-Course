@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators4.4", "Operators4.4\Operators4.4.csproj", "{AFCCA031-1C83-474A-9D4E-22E4905DBC32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFCCA031-1C83-474A-9D4E-22E4905DBC32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFCCA031-1C83-474A-9D4E-22E4905DBC32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFCCA031-1C83-474A-9D4E-22E4905DBC32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFCCA031-1C83-474A-9D4E-22E4905DBC32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

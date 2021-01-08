@@ -1,0 +1,13 @@
+C:\Users\emili\RiderProjects\MovieWatchlogDeleteAMovie9.4\MovieWatchlogDeleteAMovie9.4\bin\Debug\netcoreapp3.1\MovieWatchlogDeleteAMovie9.4.exe
+C:\Users\emili\RiderProjects\MovieWatchlogDeleteAMovie9.4\MovieWatchlogDeleteAMovie9.4\bin\Debug\netcoreapp3.1\MovieWatchlogDeleteAMovie9.4.deps.json
+C:\Users\emili\RiderProjects\MovieWatchlogDeleteAMovie9.4\MovieWatchlogDeleteAMovie9.4\bin\Debug\netcoreapp3.1\MovieWatchlogDeleteAMovie9.4.runtimeconfig.json
+C:\Users\emili\RiderProjects\MovieWatchlogDeleteAMovie9.4\MovieWatchlogDeleteAMovie9.4\bin\Debug\netcoreapp3.1\MovieWatchlogDeleteAMovie9.4.runtimeconfig.dev.json
+C:\Users\emili\RiderProjects\MovieWatchlogDeleteAMovie9.4\MovieWatchlogDeleteAMovie9.4\bin\Debug\netcoreapp3.1\MovieWatchlogDeleteAMovie9.4.dll
+C:\Users\emili\RiderProjects\MovieWatchlogDeleteAMovie9.4\MovieWatchlogDeleteAMovie9.4\bin\Debug\netcoreapp3.1\MovieWatchlogDeleteAMovie9.4.pdb
+C:\Users\emili\RiderProjects\MovieWatchlogDeleteAMovie9.4\MovieWatchlogDeleteAMovie9.4\obj\Debug\netcoreapp3.1\MovieWatchlogDeleteAMovie9.4.csprojAssemblyReference.cache
+C:\Users\emili\RiderProjects\MovieWatchlogDeleteAMovie9.4\MovieWatchlogDeleteAMovie9.4\obj\Debug\netcoreapp3.1\MovieWatchlogDeleteAMovie9.4.AssemblyInfoInputs.cache
+C:\Users\emili\RiderProjects\MovieWatchlogDeleteAMovie9.4\MovieWatchlogDeleteAMovie9.4\obj\Debug\netcoreapp3.1\MovieWatchlogDeleteAMovie9.4.AssemblyInfo.cs
+C:\Users\emili\RiderProjects\MovieWatchlogDeleteAMovie9.4\MovieWatchlogDeleteAMovie9.4\obj\Debug\netcoreapp3.1\MovieWatchlogDeleteAMovie9.4.csproj.CoreCompileInputs.cache
+C:\Users\emili\RiderProjects\MovieWatchlogDeleteAMovie9.4\MovieWatchlogDeleteAMovie9.4\obj\Debug\netcoreapp3.1\MovieWatchlogDeleteAMovie9.4.dll
+C:\Users\emili\RiderProjects\MovieWatchlogDeleteAMovie9.4\MovieWatchlogDeleteAMovie9.4\obj\Debug\netcoreapp3.1\MovieWatchlogDeleteAMovie9.4.pdb
+C:\Users\emili\RiderProjects\MovieWatchlogDeleteAMovie9.4\MovieWatchlogDeleteAMovie9.4\obj\Debug\netcoreapp3.1\MovieWatchlogDeleteAMovie9.4.genruntimeconfig.cache

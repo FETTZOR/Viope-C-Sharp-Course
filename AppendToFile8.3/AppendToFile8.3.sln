@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppendToFile8.3", "AppendToFile8.3\AppendToFile8.3.csproj", "{FEE78EE5-0E16-4BD1-ACCE-FE685F40D842}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEE78EE5-0E16-4BD1-ACCE-FE685F40D842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEE78EE5-0E16-4BD1-ACCE-FE685F40D842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEE78EE5-0E16-4BD1-ACCE-FE685F40D842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEE78EE5-0E16-4BD1-ACCE-FE685F40D842}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
